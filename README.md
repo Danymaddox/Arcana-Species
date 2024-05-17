@@ -6,6 +6,3 @@ Here you can add issues or suggestions for all of my ResourcePacks. Yes, this re
 Please make sure to include in the title of the Issue/Suggestion the ResourcePack related, and provide images if possible.
 
 Thank you for downloading, reading and help me improve my packs <3
-
-
-test
