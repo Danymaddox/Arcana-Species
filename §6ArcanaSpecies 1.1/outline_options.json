@@ -1,0 +1,67 @@
+{
+	"formatVersion": 3,
+	"blockRenderSettings": {
+		"anim-speed": "600",
+		"reverse-animation-direction": true,
+		"colour-period": "6",
+		"smooth-mix": true,
+		"anim-with-distance": true,
+		"anim-along-lines": false,
+		"line-width": "1",
+		"colours": [
+			[
+				"#8f130d",
+				1
+			],
+			[
+				"#ffaa00",
+				1
+			],
+			[
+				"#006060",
+				1
+			],
+			[
+				"#006060",
+				1
+			],
+			[
+				"#023e73",
+				1
+			],
+			[
+				"#3f0147",
+				1
+			],
+			[
+				"#f76da8",
+				1
+			]
+		]
+	},
+	"hitboxRenderSettings": {
+		"anim-speed": "600",
+		"reverse-animation-direction": false,
+		"colour-period": "6",
+		"smooth-mix": true,
+		"anim-with-distance": true,
+		"anim-along-lines": false,
+		"line-width": "1",
+		"apply-to-all-hitbox-lines": false,
+		"colours": [
+			[
+				"#006060",
+				1
+			],
+			[
+				"#ffaa00",
+				1
+			],
+			[
+				"#3f0147",
+				1
+			]
+		]
+	},
+	"customName": "Outline Arcana"
+}
