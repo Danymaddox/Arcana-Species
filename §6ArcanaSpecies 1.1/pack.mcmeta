@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "pack_format": 8,
+    "description": "§3Customizaddox"
+  },
+  "language": {
+    "arc_arc": {
+      "name": "Arcanus",
+      "region": "Arcana",
+      "bidirectional": "false"
+    }
+  }
+}
