@@ -2,3 +2,7 @@
 deprecated/
 
 #Files to ignore
+
+#File Types to ignore
+*.log
+
