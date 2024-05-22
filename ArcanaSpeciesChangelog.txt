@@ -1,0 +1,62 @@
+# Arcana Species Changelog
+
+All notable changes to this project will be documented in this file.
+
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
+and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+
+## Future implementations / Important notes
+
+- 1.20+ Support is on hold for now. Will take a lot of time to split GUI and HUD assets and now I want to focus on creating the basics of the Resource Pack and later (probably when I start focus on playing newer versions) I'll start updating.
+- I'm now focusing on adding all tweaks related to VaultHunters3 modpack, including all GUIs from mods aswell as some re-colors. As soon as I finish this I will probably start porting to 1.20 and/or, if VaultHunters4 is ready to play, start adding new mods to the texture pack compat.
+- If possible, add customizations for my patreons/twitch subscribers. This is not a priority at the moment, since Im pretty sure I need to learn Java Coding in order to make this possible.
+
+## Version 1.1
+
+ <details>
+<summary>Spoiler</summary>
+
+### Added
+
+- Custom Dark-Golden Theme (DGT) to Minecraft Vanilla GUI's (mod support will be added soon).
+- Gold coins from The Vault are now more golden.
+- Nature's Compass (Naturae Abitium) textures.
+- ItemLocks mod textures are slightly darker and transparent.
+- Cyan Unobtanium Block.
+- Modular Routers Retexture.
+
+### DGT mod support
+
+Note: This will probably get some golden touches to buttons and misc, but I need more time to test where to put them. I apreciate any suggestions/ideas.
+
+- Architects Pallete.
+- Botania.
+- Curios.
+- ExtremeSoundMuffler.
+- Mc Furnitures.
+- Quark.
+- The Vault mod. Due to how devs handle GUI's I cannot add Golden decorations to almost any of them. Its super smart how they create GUIS, but sadly I cannot edit those so in this case its only a Dark Theme :(
+- Voice Chat.
+- Waystones.
+- Applied Energistics.
+- JADE.
+- JEI.
+- Botany Pots.
+- InventoryHUD.
+- Modular Routers.
+
+### Changed
+
+- Some modded lang files.
+- Tooltip colors.
+- Minecraft text colors to mach new Dark-Golden Theme.
+
+### Removed/Deprecated
+
+- N/A
+
+ ### Fixed
+
+ - N/A
+
+</details>
