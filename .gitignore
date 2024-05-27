@@ -1,5 +1,6 @@
 #Folders to ignore
 deprecated/
+.idea/
 
 #Files to ignore
 

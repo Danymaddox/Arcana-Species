@@ -24,6 +24,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - ItemLocks mod textures are slightly darker and transparent.
 - Cyan Unobtanium Block.
 - Modular Routers Retexture.
+- MrCrayfish's Furniture Mod mail texture.
 
 ### DGT mod support
 
@@ -44,6 +45,16 @@ Note: This will probably get some golden touches to buttons and misc, but I need
 - Botany Pots.
 - InventoryHUD.
 - Modular Routers.
+- Camera Mod.
+- CFM (MrCrayfish's Furniture Mod).
+- JEI Resources.
+- ISpawners.
+- Easy Villagers.
+- Easy Piglins.
+- ElevatorID.
+- Cyclops Core.
+- Enercell.
+
 
 ### Changed
 
