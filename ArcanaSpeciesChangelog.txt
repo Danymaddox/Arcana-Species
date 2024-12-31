@@ -9,7 +9,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - 1.20+ Support is on hold for now. Will take a lot of time to split GUI and HUD assets and now I want to focus on creating the basics of the Resource Pack and later (probably when I start focus on playing newer versions) I'll start updating.
 - I'm now focusing on adding all tweaks related to VaultHunters3 modpack, including all GUIs from mods aswell as some re-colors. As soon as I finish this I will probably start porting to 1.20 and/or, if VaultHunters4 is ready to play, start adding new mods to the texture pack compat.
-- If possible, add customizations for my patreons/twitch subscribers. This is not a priority at the moment, since Im pretty sure I need to learn Java Coding in order to make this possible.
 
 ## Version 1.1
 
@@ -24,6 +23,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - ItemLocks mod textures are slightly darker and transparent.
 - Cyan Unobtanium Block.
 - Modular Routers Retexture.
+- MrCrayfish's Furniture Mod mail texture.
 
 ### DGT mod support
 
@@ -44,6 +44,20 @@ Note: This will probably get some golden touches to buttons and misc, but I need
 - Botany Pots.
 - InventoryHUD.
 - Modular Routers.
+- Camera Mod.
+- CFM (MrCrayfish's Furniture Mod).
+- JEI Resources.
+- ISpawners.
+- Easy Villagers.
+- Easy Piglins.
+- ElevatorID.
+- Cyclops Core.
+- Enercell.
+- JEI Profesions.
+- Mining Gadgets.
+- Waystones.
+
+Note 2: yeah, probably there are more mods that have DGT Support than the ones listed here. Im bad at changelogs. Woops.
 
 ### Changed
 
@@ -60,3 +74,4 @@ Note: This will probably get some golden touches to buttons and misc, but I need
  - N/A
 
 </details>
+
