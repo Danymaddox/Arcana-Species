@@ -7,8 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Future implementations / Important notes
 
-- 1.20+ Support is on hold for now. Will take a lot of time to split GUI and HUD assets and now I want to focus on creating the basics of the Resource Pack and later (probably when I start focus on playing newer versions) I'll start updating.
-- I'm now focusing on adding all tweaks related to VaultHunters3 modpack, including all GUIs from mods aswell as some re-colors. As soon as I finish this I will probably start porting to 1.20 and/or, if VaultHunters4 is ready to play, start adding new mods to the texture pack compat.
+- 1-20+ Support. No more delaying updating to newer versions.
+- I'm now focusing on adding all tweaks related to the modpacks im working/playing. If you like to have any mod added, please use GitHub to create a suggestion. I will add it eventually, but take in consideration that larger mods takes much more time.
 
 ## Version 1.1
 
@@ -19,7 +19,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Custom Dark-Golden Theme (DGT) to Minecraft Vanilla GUI's (mod support will be added soon).
 - Gold coins from The Vault are now more golden.
-- Nature's Compass (Naturae Abitium) textures.
+- Nature's Compass (Renamed to Naturae Abitium) textures.
 - ItemLocks mod textures are slightly darker and transparent.
 - Cyan Unobtanium Block.
 - Modular Routers Retexture.
@@ -56,6 +56,7 @@ Note: This will probably get some golden touches to buttons and misc, but I need
 - JEI Profesions.
 - Mining Gadgets.
 - Waystones.
+- BotanyTrees.
 
 Note 2: yeah, probably there are more mods that have DGT Support than the ones listed here. Im bad at changelogs. Woops.
 
@@ -71,7 +72,16 @@ Note 2: yeah, probably there are more mods that have DGT Support than the ones l
 
  ### Fixed
 
+ - A stupid amount of texture inconsistencies.
+
  - N/A
+
+### To do list
+- GuideME assets
+- ModularRouter export settings.
+- Yellow items to goldish items.
+- Minecraft sprites.
+- SoundMuffler thingy transparent
 
 </details>
 
