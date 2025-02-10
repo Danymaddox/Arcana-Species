@@ -82,6 +82,8 @@ Note 2: yeah, probably there are more mods that have DGT Support than the ones l
 - Yellow items to goldish items.
 - Minecraft sprites.
 - SoundMuffler thingy transparent
+- Search text and tooltip text to gray DGT.
+- Crafting table phantom item in recipes (red --> purple)
 
 </details>
 
