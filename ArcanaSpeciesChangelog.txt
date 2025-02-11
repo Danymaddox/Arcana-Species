@@ -68,11 +68,16 @@ Note 2: yeah, probably there are more mods that have DGT Support than the ones l
 
 ### Removed/Deprecated
 
-- N/A
+- Any and all textures that do not work on modern MC versions.
 
  ### Fixed
 
  - A stupid amount of texture inconsistencies.
+ - Buttons not working properly.
+ - Smithing text.
+ - Tooltips not working.
+ - ExtremeSoundMuffler inventory texture.
+ - Curios Textures.
 
  - N/A
 
@@ -81,11 +86,9 @@ Note 2: yeah, probably there are more mods that have DGT Support than the ones l
 - GuideME assets
 - ModularRouter export settings.
 - Yellow items to goldish items.
-- SoundMuffler thingy transparent
-- Search text and tooltip text to gray DGT.
-- Crafting table phantom item in recipes (red --> purple)
-- Fix Curio textures
+- Search text and tooltip text to gray DGT, Crafting table phantom item in recipes (red --> purple)
 - Fix JEI textures
+- Add fusion support
 
 </details>
 
