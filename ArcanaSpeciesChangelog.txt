@@ -57,6 +57,7 @@ Note: This will probably get some golden touches to buttons and misc, but I need
 - Mining Gadgets.
 - Waystones.
 - BotanyTrees.
+- GuideME.
 
 Note 2: yeah, probably there are more mods that have DGT Support than the ones listed here. Im bad at changelogs. Woops.
 
@@ -78,17 +79,15 @@ Note 2: yeah, probably there are more mods that have DGT Support than the ones l
  - Tooltips not working.
  - ExtremeSoundMuffler inventory texture.
  - Curios Textures.
+ - JEI textures.
 
  - N/A
 
 ### To do list
 
-- GuideME assets
-- ModularRouter export settings.
 - Yellow items to goldish items.
 - Search text and tooltip text to gray DGT, Crafting table phantom item in recipes (red --> purple)
-- Fix JEI textures
-- Add fusion support
+- Add fusion support.
 
 </details>
 
