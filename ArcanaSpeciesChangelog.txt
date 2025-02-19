@@ -29,35 +29,42 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Note: This will probably get some golden touches to buttons and misc, but I need more time to test where to put them. I apreciate any suggestions/ideas.
 
+- Applied Energistics.
 - Architects Pallete.
 - Botania.
-- Curios.
-- ExtremeSoundMuffler.
-- Mc Furnitures.
-- Quark.
-- The Vault mod. Due to how devs handle GUI's I cannot add Golden decorations to almost any of them. Its super smart how they create GUIS, but sadly I cannot edit those so in this case its only a Dark Theme :(
-- Voice Chat.
-- Waystones.
-- Applied Energistics.
-- JADE.
-- JEI.
 - Botany Pots.
-- InventoryHUD.
-- Modular Routers.
+- BotanyTrees.
 - Camera Mod.
 - CFM (MrCrayfish's Furniture Mod).
-- JEI Resources.
-- ISpawners.
-- Easy Villagers.
-- Easy Piglins.
-- ElevatorID.
+- Curios.
 - Cyclops Core.
+- Easy Piglins.
+- Easy Villagers.
+- ElevatorID.
 - Enercell.
-- JEI Profesions.
-- Mining Gadgets.
-- Waystones.
-- BotanyTrees.
+- ExtremeSoundMuffler.
 - GuideME.
+- InventoryHUD.
+- ISpawners. NOT SUPPORTED due to Iskall's behaviour.
+- JADE.
+- JEI Profesions.
+- JEI Resources.
+- JEI.
+- Mc Furnitures.
+- Mining Gadgets.
+- Modular Routers.
+- Quark.
+- The Vault mod. NOT SUPPORTED due to Iskall's behaviour. I would probably delete all files at some point because I do not want to have half the inventories with darkmode and half of it in white.
+- Voice Chat.
+- Waystones.
+- Integrated Crafting.
+- Integrated Dynamics.
+- Integrated Dynamics Compat.
+- Integrated Rest.
+- Integrated Scripting.
+- Integrated Terminals.
+- Integrated Tunnels.
+- Domum Ornamentum.
 
 Note 2: yeah, probably there are more mods that have DGT Support than the ones listed here. Im bad at changelogs. Woops.
 
@@ -88,6 +95,19 @@ Note 2: yeah, probably there are more mods that have DGT Support than the ones l
 - Yellow items to goldish items.
 - Search text and tooltip text to gray DGT, Crafting table phantom item in recipes (red --> purple)
 - Add fusion support.
+- Update AE2 textures to new version. This is going to be a pain tbh.
+- Supplementaries.
+- Quark.
+- Cognition.
+- Fantasy's Furniture.
+- Storage Racks.
+- Structurize and MineColonies?
+- Mana and Artifice.
+- MineChem.
+- Malum.
+- Wizard's Reborn.
+- Skyblock builder/GUI
+
 
 </details>
 
