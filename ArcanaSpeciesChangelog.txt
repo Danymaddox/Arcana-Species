@@ -34,37 +34,57 @@ Note: This will probably get some golden touches to buttons and misc, but I need
 - Botania.
 - Botany Pots.
 - BotanyTrees.
+- Building Gadgets.
 - Camera Mod.
-- CFM (MrCrayfish's Furniture Mod).
+- CFM (MrCrayfish's Furniture Mod: Legacy).
+- Claim Chunks.
+- Colosal Chests.
+- Cooking for Blockheads.
+- Corpse Mod.
+- Crafting Tweaks.
 - Curios.
 - Cyclops Core.
+- Dark Utils.
+- Domum Ornamentum.
 - Easy Piglins.
 - Easy Villagers.
 - ElevatorID.
 - Enercell.
 - ExtremeSoundMuffler.
+- Fantasy Furniture.
+- Flux Networks.
 - GuideME.
+- Integrated Crafting.
+- Integrated Dynamics Compat.
+- Integrated Dynamics.
+- Integrated Rest.
+- Integrated Scripting.
+- Integrated Terminals.
+- Integrated Tunnels.
+- Inventory Profiles Next.
 - InventoryHUD.
-- ISpawners. NOT SUPPORTED due to Iskall's behaviour.
 - JADE.
 - JEI Profesions.
 - JEI Resources.
 - JEI.
 - Mc Furnitures.
+- Minecolonies.
+- MineColonies.
+- Minecraft.
 - Mining Gadgets.
 - Modular Routers.
+- Nature's Compass.
+- Pipez.
+- Polymorph.
 - Quark.
-- The Vault mod. NOT SUPPORTED due to Iskall's behaviour. I would probably delete all files at some point because I do not want to have half the inventories with darkmode and half of it in white.
+- Storage Racks.
+- Structurize.
+- Sophisticated Core.
+- Supplementaries.
+- Trash Slot.
 - Voice Chat.
+- Waila.
 - Waystones.
-- Integrated Crafting.
-- Integrated Dynamics.
-- Integrated Dynamics Compat.
-- Integrated Rest.
-- Integrated Scripting.
-- Integrated Terminals.
-- Integrated Tunnels.
-- Domum Ornamentum.
 
 Note 2: yeah, probably there are more mods that have DGT Support than the ones listed here. Im bad at changelogs. Woops.
 
@@ -77,36 +97,43 @@ Note 2: yeah, probably there are more mods that have DGT Support than the ones l
 ### Removed/Deprecated
 
 - Any and all textures that do not work on modern MC versions.
+- The Vault mod textures had been removed due to Iskall's behaviour.
+- ISpawners textures had been Removed due to Iskall's behaviour.
+- VaultarHUD DGT support has been removed since there's no support for any Vault Hunters textures.
 
- ### Fixed
+### Fixed
 
- - A stupid amount of texture inconsistencies.
- - Buttons not working properly.
- - Smithing text.
- - Tooltips not working.
- - ExtremeSoundMuffler inventory texture.
- - Curios Textures.
- - JEI textures.
+- A stupid amount of texture inconsistencies.
+- Buttons not working properly.
+- Smithing text.
+- Tooltips not working.
+- ExtremeSoundMuffler inventory texture.
+- Curios Textures.
+- JEI textures.
+- Curios Textures for newer versions. Old ones should still be supported.
 
- - N/A
+### Known bugs/problems.
+
+- Any non-supported GUI will have problems rendering texts since with this pack all text in GUIS are changed to a white-greysh color. This is usually just a visual problem, but with some mods it can be specifically problematic. For example: Mana and Artifice Codex Arcana. Please report any mods that do not render text properly so I can fix them as soon as possible.
 
 ### To do list
 
+- Fix text color. In most UI's color is defined by the modder, but in some cases (MnA Codex Arcana), its defined by core shaders. Either I need to also darken those GUI's or find a way (if there is one) to change the color back to black when using the Codex Arcana.
 - Yellow items to goldish items.
 - Search text and tooltip text to gray DGT, Crafting table phantom item in recipes (red --> purple)
-- Add fusion support.
+- Add fusion support, both 'bleeding' textures and emmisive ores (will be a separate file).
 - Update AE2 textures to new version. This is going to be a pain tbh.
-- Supplementaries.
-- Quark.
-- Cognition.
-- Fantasy's Furniture.
-- Storage Racks.
-- Structurize and MineColonies?
-- Mana and Artifice.
-- MineChem.
-- Malum.
-- Wizard's Reborn.
-- Skyblock builder/GUI
+- Update/Add MrCrayfish's Furniture Mod: Refurbished DGT Support.
+- Quark --> needs review.
+- Cognition --> Not in 1.21
+- Fantasy's Furniture --> Not in 1.21 needs testing
+- MineChem --> Not in 1.21
+- Malum --> Not in 1.21
+- Wizard's Reborn --> Not in 1.21
+- Skyblock builder/GUI. --> Not in 1.21
+- Ex Deorum.
+- Integrated Dynamics --> make fluids trasparent.
+- Fix Sophisticated Backpacks gold overlap, GUI size (and seems cutout) and search button
 
 
 </details>
