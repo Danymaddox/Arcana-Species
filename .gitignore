@@ -6,5 +6,6 @@ deprecated/
 
 #File Types to ignore
 *.log
+*.zip
 
 /.idea/
