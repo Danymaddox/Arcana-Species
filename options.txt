@@ -43,7 +43,7 @@ touchscreen:false
 bobView:true
 toggleCrouch:false
 toggleSprint:false
-darkMojangStudiosBackground:false
+darkMojangStudiosBackground:true
 hideLightningFlashes:false
 hideSplashTexts:false
 mouseSensitivity:0.5
@@ -51,7 +51,7 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["vanilla","mod_resources","file/custom_resourcepack","file/Lower Shield.zip","file/LowOnFire 1.21.4.zip","file/§6ArcanaSpecies 1.1.zip"]
+resourcePacks:["vanilla","mod_resources","file/§6ArcanaSpecies 1.1.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -59,7 +59,7 @@ chatVisibility:0
 chatOpacity:1.0
 chatLineSpacing:0.0
 textBackgroundOpacity:0.5
-backgroundForChatOnly:true
+backgroundForChatOnly:false
 hideServerAddress:false
 advancedItemTooltips:true
 pauseOnLostFocus:true
