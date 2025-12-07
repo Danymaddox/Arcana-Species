@@ -5,6 +5,8 @@
 - 1-20+ Support. No more delaying updating to newer versions.
 - I'm now focusing on adding all tweaks related to the modpacks im working/playing. If you like to have any mod added, please use GitHub to create a suggestion. I will add it eventually, but take in consideration that larger mods takes much more time.
 
+Please report any bug here: [GitHub](https://github.com/Danymaddox/Arcana-Species/issues).
+
 ## Version 1.1
 
  <details>
@@ -13,16 +15,19 @@
 ### Added
 
 - Custom Dark-Golden Theme (DGT) to Minecraft Vanilla GUI's (mod support will be added soon).
-- Gold coins from The Vault are now more golden.
 - Nature's Compass (Renamed to Naturae Abitium) textures.
 - ItemLocks mod textures are slightly darker and transparent.
 - Cyan Unobtanium Block.
 - Modular Routers Retexture.
 - MrCrayfish's Furniture Mod mail texture.
+- Tons of DGT supports added
 
 ### DGT mod support
 
 Note: This will probably get some golden touches to buttons and misc, but I need more time to test where to put them. I apreciate any [suggestions/ideas](https://github.com/Danymaddox/Arcana-Species/issues).
+
+ <details>
+<summary>Spoiler</summary>
 
 - Applied Energistics.
 - Architects Pallete.
@@ -77,6 +82,7 @@ Note: This will probably get some golden touches to buttons and misc, but I need
 - Storage Racks.
 - Structurize.
 - Sophisticated Core.
+- Sophisticated Storage.
 - Supplementaries.
 - Trash Slot.
 - Voice Chat.
@@ -84,6 +90,8 @@ Note: This will probably get some golden touches to buttons and misc, but I need
 - Waystones.
 
 Note 2: yeah, probably there are more mods that have DGT Support than the ones listed here. Im bad at changelogs. Woops.
+
+ </details>
 
 ### Changed
 
@@ -113,9 +121,14 @@ Note 2: yeah, probably there are more mods that have DGT Support than the ones l
 
 - Any non-supported GUI will have problems rendering texts since with this pack all text in GUIS are changed to a white-greysh color. This is usually just a visual problem, but with some mods it can be specifically problematic. For example: Mana and Artifice Codex Arcana. Please report any mods that do not render text properly so I can fix them as soon as possible.
 
-</details>
+### Fusion Support Changes
+ <details>
+<summary>Spoiler</summary>
 
-Please report any bug here: [GitHub](https://github.com/Danymaddox/Arcana-Species/issues).
+Work In Progress
+
+</details>
+</details>
 
 All notable changes to this project will be documented in this file.
 
