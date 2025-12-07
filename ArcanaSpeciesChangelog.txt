@@ -1,10 +1,5 @@
 # Arcana Species Changelog
 
-All notable changes to this project will be documented in this file.
-
-The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
-and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
-
 ## Future implementations / Important notes
 
 - 1-20+ Support. No more delaying updating to newer versions.
@@ -27,7 +22,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### DGT mod support
 
-Note: This will probably get some golden touches to buttons and misc, but I need more time to test where to put them. I apreciate any suggestions/ideas.
+Note: This will probably get some golden touches to buttons and misc, but I need more time to test where to put them. I apreciate any [suggestions/ideas](https://github.com/Danymaddox/Arcana-Species/issues).
 
 - Applied Energistics.
 - Architects Pallete.
@@ -63,10 +58,12 @@ Note: This will probably get some golden touches to buttons and misc, but I need
 - Integrated Tunnels.
 - Inventory Profiles Next.
 - InventoryHUD.
+- Inventory Tweaks.
 - JADE.
 - JEI Profesions.
 - JEI Resources.
 - JEI.
+- Mana and Artifice. ONLY Codex Arcana stuff, still missing a lot of textures.
 - Mc Furnitures.
 - Minecolonies.
 - MineColonies.
@@ -108,33 +105,19 @@ Note 2: yeah, probably there are more mods that have DGT Support than the ones l
 - Smithing text.
 - Tooltips not working.
 - ExtremeSoundMuffler inventory texture.
-- Curios Textures.
 - JEI textures.
 - Curios Textures for newer versions. Old ones should still be supported.
+- Fixed Sophisticated series weirdness.
 
 ### Known bugs/problems.
 
 - Any non-supported GUI will have problems rendering texts since with this pack all text in GUIS are changed to a white-greysh color. This is usually just a visual problem, but with some mods it can be specifically problematic. For example: Mana and Artifice Codex Arcana. Please report any mods that do not render text properly so I can fix them as soon as possible.
 
-### To do list
-
-- Fix text color. In most UI's color is defined by the modder, but in some cases (MnA Codex Arcana), its defined by core shaders. Either I need to also darken those GUI's or find a way (if there is one) to change the color back to black when using the Codex Arcana.
-- Yellow items to goldish items.
-- Search text and tooltip text to gray DGT, Crafting table phantom item in recipes (red --> purple)
-- Add fusion support, both 'bleeding' textures and emmisive ores (will be a separate file).
-- Update AE2 textures to new version. This is going to be a pain tbh.
-- Update/Add MrCrayfish's Furniture Mod: Refurbished DGT Support.
-- Quark --> needs review.
-- Cognition --> Not in 1.21
-- Fantasy's Furniture --> Not in 1.21 needs testing
-- MineChem --> Not in 1.21
-- Malum --> Not in 1.21
-- Wizard's Reborn --> Not in 1.21
-- Skyblock builder/GUI. --> Not in 1.21
-- Ex Deorum.
-- Integrated Dynamics --> make fluids trasparent.
-- Fix Sophisticated Backpacks gold overlap, GUI size (and seems cutout) and search button
-
-
 </details>
 
+Please report any bug here: [GitHub](https://github.com/Danymaddox/Arcana-Species/issues).
+
+All notable changes to this project will be documented in this file.
+
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
+and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
