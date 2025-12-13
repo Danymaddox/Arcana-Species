@@ -6,7 +6,16 @@
         "first_run": false
     },
     "GuiSettings": {
-        "continuous_crafting_saved_value": false
+        "continuous_crafting_saved_value": false,
+        "show_regular_sort_button": {
+            "value": false
+        },
+        "show_sort_in_columns_button": {
+            "value": false
+        },
+        "show_sort_in_rows_button": {
+            "value": false
+        }
     },
     "AutoRefillSettings": {
         "auto_refill_prefer_smaller_stacks": true,
@@ -20,5 +29,22 @@
         "number_of_notifications": 1,
         "type_visual_replace_success_notification": "CHAT",
         "type_visual_replace_failed_notification": "CHAT"
+    },
+    "Hotkeys": {
+        "sort_inventory": {
+            "main": {
+                "keys": "BUTTON_3"
+            }
+        },
+        "move_all_items": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "throw_all_items": {
+            "main": {
+                "keys": ""
+            }
+        }
     }
 }
