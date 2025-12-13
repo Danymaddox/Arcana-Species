@@ -1,0 +1,323 @@
+{
+    "net.minecraft.client.gui.screens.inventory.InventoryScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 7,
+                "top": 483
+            },
+            "SETTINGS": {
+                "horizontalOffset": -4,
+                "top": 468
+            },
+            "MOVE_TO_CONTAINER": {
+                "bottom": -12
+            }
+        }
+    },
+    "net.minecraft.world.inventory.InventoryMenu": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 7,
+                "top": 483
+            },
+            "SETTINGS": {
+                "horizontalOffset": -4,
+                "top": 468
+            },
+            "MOVE_TO_CONTAINER": {
+                "bottom": -12
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.CreativeModeInventoryScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 7,
+                "top": 483
+            },
+            "SETTINGS": {
+                "horizontalOffset": -4,
+                "top": 468
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.AbstractContainerScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 7,
+                "top": 483
+            },
+            "SETTINGS": {
+                "horizontalOffset": -4,
+                "top": 468
+            },
+            "MOVE_TO_CONTAINER": {
+                "bottom": -12
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.AnvilScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 7,
+                "top": 483
+            },
+            "SETTINGS": {
+                "horizontalOffset": -4,
+                "top": 468
+            },
+            "MOVE_TO_CONTAINER": {
+                "bottom": -12
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.GrindstoneScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 7,
+                "top": 483
+            },
+            "SETTINGS": {
+                "horizontalOffset": -4,
+                "top": 468
+            },
+            "MOVE_TO_CONTAINER": {
+                "bottom": -12
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.LoomScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 7,
+                "top": 483
+            },
+            "SETTINGS": {
+                "horizontalOffset": -4,
+                "top": 468
+            },
+            "MOVE_TO_CONTAINER": {
+                "bottom": -12
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.CartographyTableScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 7,
+                "top": 483
+            },
+            "SETTINGS": {
+                "horizontalOffset": -4,
+                "top": 468
+            },
+            "MOVE_TO_CONTAINER": {
+                "bottom": -12
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.StonecutterScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 7,
+                "top": 483
+            },
+            "SETTINGS": {
+                "horizontalOffset": -4,
+                "top": 468
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.FurnaceScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 7,
+                "top": 483
+            },
+            "SETTINGS": {
+                "horizontalOffset": -4,
+                "top": 468
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.BlastFurnaceScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 7,
+                "top": 483
+            },
+            "SETTINGS": {
+                "horizontalOffset": -4,
+                "top": 468
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.SmokerScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 7,
+                "top": 483
+            },
+            "SETTINGS": {
+                "horizontalOffset": -4,
+                "top": 468
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.CraftingTableScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 7,
+                "top": 483
+            },
+            "SETTINGS": {
+                "horizontalOffset": -4,
+                "top": 468
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.BarrelScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 7,
+                "top": 483
+            },
+            "SETTINGS": {
+                "horizontalOffset": -4,
+                "top": 468
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.ShulkerBoxScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 7,
+                "top": 483
+            },
+            "SETTINGS": {
+                "horizontalOffset": -4,
+                "top": 468
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.HopperScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 7,
+                "top": 483
+            },
+            "SETTINGS": {
+                "horizontalOffset": -4,
+                "top": 468
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.DispenserScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 7,
+                "top": 483
+            },
+            "SETTINGS": {
+                "horizontalOffset": -4,
+                "top": 468
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.EnchantmentScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 7,
+                "top": 483
+            },
+            "SETTINGS": {
+                "horizontalOffset": -4,
+                "top": 468
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.BrewingStandScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 7,
+                "top": 483
+            },
+            "SETTINGS": {
+                "horizontalOffset": -4,
+                "top": 468
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.MerchantScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 7,
+                "top": 483
+            },
+            "SETTINGS": {
+                "horizontalOffset": -4,
+                "top": 468
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.VillagerInventoryScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 7,
+                "top": 483
+            },
+            "SETTINGS": {
+                "horizontalOffset": -4,
+                "top": 468
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.BeaconScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 7,
+                "top": 483
+            },
+            "SETTINGS": {
+                "horizontalOffset": -4,
+                "top": 468
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.SmithingScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 7,
+                "top": 483
+            },
+            "SETTINGS": {
+                "horizontalOffset": -4,
+                "top": 468
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.CrafterScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 7,
+                "top": 483
+            },
+            "SETTINGS": {
+                "horizontalOffset": -4,
+                "top": 468
+            }
+        }
+    },
+    "com.aranaira.magichem.gui.AlembicScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 7,
+                "top": 483
+            },
+            "SETTINGS": {
+                "horizontalOffset": -4,
+                "top": 468
+            }
+        }
+    }
+}

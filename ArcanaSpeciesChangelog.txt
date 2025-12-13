@@ -128,7 +128,7 @@ Note 2: yeah, probably there are more mods that have DGT Support than the ones l
 Work In Progress
 
 </details>
-</details>
+</details><
 
 All notable changes to this project will be documented in this file.
 
