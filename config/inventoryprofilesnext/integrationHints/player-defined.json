@@ -105,11 +105,11 @@
         "buttonHints": {
             "SHOW_EDITOR": {
                 "horizontalOffset": 7,
-                "top": 340
+                "top": 483
             },
             "SETTINGS": {
                 "horizontalOffset": -4,
-                "top": 340
+                "top": 468
             },
             "MOVE_TO_CONTAINER": {
                 "bottom": -12
@@ -297,6 +297,18 @@
         }
     },
     "net.minecraft.client.gui.screens.inventory.CrafterScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 7,
+                "top": 483
+            },
+            "SETTINGS": {
+                "horizontalOffset": -4,
+                "top": 468
+            }
+        }
+    },
+    "com.aranaira.magichem.gui.AlembicScreen": {
         "buttonHints": {
             "SHOW_EDITOR": {
                 "horizontalOffset": 7,
