@@ -23,8 +23,9 @@ Note: This will probably get some golden touches to buttons and misc, but I need
  <details>
 <summary>Spoiler</summary>
 
-- EMI
+- EMI. Due to how Emi handles gui textures I cannot add gold to them. Sad.
 - JEI/EMI Create
+- 
 
 Note 2: yeah, probably there are more mods that have DGT Support than the ones listed here. Im bad at changelogs. Woops.
 
@@ -32,27 +33,15 @@ Note 2: yeah, probably there are more mods that have DGT Support than the ones l
 
 ### Changed
 
-- Some modded lang files.
-- Tooltip colors.
-- Minecraft text colors to mach new Dark-Golden Theme.
+
 
 ### Removed/Deprecated
 
-- Any and all textures that do not work on modern MC versions.
-- The Vault mod textures had been removed due to Iskall's behaviour.
-- ISpawners textures had been Removed due to Iskall's behaviour.
-- VaultarHUD DGT support has been removed since there's no support for any Vault Hunters textures.
+
 
 ### Fixed
 
-- A stupid amount of texture inconsistencies.
-- Buttons not working properly.
-- Smithing text.
-- Tooltips not working.
-- ExtremeSoundMuffler inventory texture.
-- JEI textures.
-- Curios Textures for newer versions. Old ones should still be supported.
-- Fixed Sophisticated series weirdness.
+
 
 ### Known bugs/problems.
 

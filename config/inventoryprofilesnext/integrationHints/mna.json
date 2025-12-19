@@ -1,0 +1,26 @@
+{
+    "com.mna.gui.item.GuiGuideBook": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 7,
+                "top": 483
+            },
+            "SETTINGS": {
+                "horizontalOffset": -4,
+                "top": 468
+            }
+        }
+    },
+    "com.mna.gui.block.GuiOcculus": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 7,
+                "top": 483
+            },
+            "SETTINGS": {
+                "horizontalOffset": -4,
+                "top": 468
+            }
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+  "pingVolume": 100,
+  "pingDuration": 3,
+  "pingDistance": 2048,
+  "correctionPeriod": 1.0,
+  "itemIconVisible": true,
+  "directionIndicatorVisible": true,
+  "playerInfoMode": "HOLD",
+  "teamColorMode": "FULL",
+  "pingSize": 300,
+  "channel": "",
+  "serverChannels": {
+    "danymaddox.modded.fun": "Global"
+  },
+  "removeRadius": 10,
+  "raycastDistance": 1024,
+  "safeZoneLeft": 12,
+  "safeZoneRight": 12,
+  "safeZoneTop": 12,
+  "safeZoneBottom": 60
+}
