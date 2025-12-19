@@ -6,6 +6,7 @@
         "first_run": false
     },
     "GuiSettings": {
+        "continuous_crafting_checkbox_value": "UNCHECKED",
         "continuous_crafting_saved_value": false,
         "show_regular_sort_button": {
             "value": false
@@ -15,7 +16,12 @@
         },
         "show_sort_in_rows_button": {
             "value": false
-        }
+        },
+        "show_button_tooltips": false
+    },
+    "LockedSlotsSettings": {
+        "show_locked_slots_bg_color": "#FF555500",
+        "show_locked_slots_hotbar_color": "#FF5E4100"
     },
     "AutoRefillSettings": {
         "auto_refill_prefer_smaller_stacks": true,
@@ -42,6 +48,31 @@
             }
         },
         "throw_all_items": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "save_as_profile": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "global_bookmark_trade": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "local_bookmark_trade": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "do_global_trade": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "do_local_trade": {
             "main": {
                 "keys": ""
             }
