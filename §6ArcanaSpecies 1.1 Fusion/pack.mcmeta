@@ -1,0 +1,17 @@
+{
+  "pack": {
+    "pack_format": 14,
+    "supported_formats": {
+      "min_inclusive": 14,
+      "max_inclusive": 32767
+    },
+    "description": "§3Customizaddox"
+  },
+  "language": {
+    "arc_arc": {
+      "name": "Arcanus",
+      "region": "Arcana",
+      "bidirectional": "false"
+    }
+  }
+}
