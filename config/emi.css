@@ -9,7 +9,7 @@
 	/**
 	 * Whether cheating in items is enabled.
 	 */
-	cheat-mode: false;
+	cheat-mode: true;
 
 	/**
 	 * How much EMI should use tooltips and popups to show controls and information.
@@ -172,7 +172,7 @@
 	/**
 	 * The subpanels in the left sidebar
 	 */
-	left-sidebar-subpanels: lookup-history 2;
+	left-sidebar-subpanels: none;
 
 	/**
 	 * How many columns and rows of ingredients to limit the left sidebar to
@@ -182,7 +182,7 @@
 	/**
 	 * How much space to maintain between the left sidebar and obstructions, in pixels
 	 */
-	left-sidebar-margins: 2, 2, 2, 2;
+	left-sidebar-margins: 6, 2, 2, 2;
 
 	/**
 	 * Where to position the left sidebar
@@ -217,7 +217,7 @@
 	/**
 	 * How much space to maintain between the right sidebar and obstructions, in pixels
 	 */
-	right-sidebar-margins: 2, 2, 2, 2;
+	right-sidebar-margins: 6, 2, 2, 2;
 
 	/**
 	 * Where to position the right sidebar
@@ -272,12 +272,12 @@
 	/**
 	 * The pages in the bottom sidebar
 	 */
-	bottom-sidebar-pages: none;
+	bottom-sidebar-pages: empty;
 
 	/**
 	 * The subpanels in the bottom sidebar
 	 */
-	bottom-sidebar-subpanels: none;
+	bottom-sidebar-subpanels: lookup-history 7;
 
 	/**
 	 * How many columns and rows of ingredients to limit the bottom sidebar to
@@ -288,7 +288,7 @@
 	 * How much space to maintain between the bottom sidebar and obstructions, in
 	 * pixels
 	 */
-	bottom-sidebar-margins: 2, 2, 2, 2;
+	bottom-sidebar-margins: 0, 0, 0, 0;
 
 	/**
 	 * Where to position the bottom sidebar
@@ -298,7 +298,7 @@
 	/**
 	 * Whether to render the header buttons and page count for the bottom sidebar
 	 */
-	bottom-sidebar-header: visible;
+	bottom-sidebar-header: invisible;
 
 	/**
 	 * Which theme to use for the bottom sidebar
