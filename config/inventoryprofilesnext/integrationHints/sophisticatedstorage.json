@@ -10,7 +10,8 @@
                 "top": 468
             },
             "MOVE_TO_CONTAINER": {
-                "bottom": -12
+                "horizontalOffset": -410,
+                "bottom": -248
             }
         }
     }
