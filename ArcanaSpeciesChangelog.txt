@@ -2,7 +2,7 @@
 
 ## Future implementations / Important notes
 
-- 1.21.1 Support. Im waiting for MC26.1 to update to newer versions, mojang keeps messign with assets
+- 1-20+ Support. No more delaying updating to newer versions.
 - I'm now focusing on adding all tweaks related to the modpacks im working/playing. If you like to have any mod added, please use GitHub to create a suggestion. I will add it eventually, but take in consideration that larger mods takes much more time.
 
 Please report any bug here: [GitHub](https://github.com/Danymaddox/Arcana-Species/issues).

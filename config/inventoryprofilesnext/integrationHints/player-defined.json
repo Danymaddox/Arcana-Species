@@ -105,11 +105,11 @@
         "buttonHints": {
             "SHOW_EDITOR": {
                 "horizontalOffset": 7,
-                "top": 483
+                "top": 340
             },
             "SETTINGS": {
                 "horizontalOffset": -4,
-                "top": 468
+                "top": 340
             },
             "MOVE_TO_CONTAINER": {
                 "bottom": -12
@@ -310,13 +310,8 @@
     },
     "com.aranaira.magichem.gui.AlembicScreen": {
         "buttonHints": {
-            "SHOW_EDITOR": {
-                "horizontalOffset": 7,
-                "top": 483
-            },
             "SETTINGS": {
-                "horizontalOffset": -4,
-                "top": 468
+                "top": 230
             }
         }
     }

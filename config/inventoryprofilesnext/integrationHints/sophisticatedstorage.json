@@ -1,0 +1,17 @@
+{
+    "net.p3pp3rf1y.sophisticatedstorage.client.gui.StorageScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 7,
+                "top": 483
+            },
+            "SETTINGS": {
+                "horizontalOffset": -4,
+                "top": 468
+            },
+            "MOVE_TO_CONTAINER": {
+                "bottom": -12
+            }
+        }
+    }
+}
