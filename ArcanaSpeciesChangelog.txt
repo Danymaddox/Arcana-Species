@@ -2,10 +2,64 @@
 
 ## Future implementations / Important notes
 
-- 1-20+ Support. No more delaying updating to newer versions.
+- 1.21.1 Support. Im waiting for MC26.1 to update to newer versions, mojang keeps messign with assets
 - I'm now focusing on adding all tweaks related to the modpacks im working/playing. If you like to have any mod added, please use GitHub to create a suggestion. I will add it eventually, but take in consideration that larger mods takes much more time.
 
 Please report any bug here: [GitHub](https://github.com/Danymaddox/Arcana-Species/issues).
+
+## Version 1.2
+
+ <details>
+<summary>Spoiler</summary>
+
+### Added
+
+- Mostly DGT support
+
+### DGT mod support
+
+Note: This will probably get some golden touches to buttons and misc, but I need more time to test where to put them. I apreciate any [suggestions/ideas](https://github.com/Danymaddox/Arcana-Species/issues).
+
+ <details>
+<summary>Spoiler</summary>
+
+- EMI. Due to how Emi handles gui textures I cannot add gold to them. Sad.
+- JEI/EMI Create
+- Polymorph 1.21+
+
+Note 2: yeah, probably there are more mods that have DGT Support than the ones listed here. Im bad at changelogs. Woops.
+
+ </details>
+
+### Changed
+
+
+
+### Removed/Deprecated
+
+
+
+### Fixed
+
+- Minecraft text box texture not scaling properly
+- Minecraft scroll bar texture not scaling properly
+- Minecraft System Toast not scaling properly
+- Minecraft Gravel weird bug
+
+
+
+### Known bugs/problems.
+
+- Any non-supported GUI will have problems rendering texts since with this pack all text in GUIS are changed to a white-greysh color. This is usually just a visual problem, but with some mods it can be specifically problematic. For example: Mana and Artifice Codex Arcana. Please report any mods that do not render text properly so I can fix them as soon as possible.
+
+### Fusion Support Changes
+ <details>
+<summary>Spoiler</summary>
+
+Work In Progress
+
+</details>
+</details><
 
 ## Version 1.1
 
