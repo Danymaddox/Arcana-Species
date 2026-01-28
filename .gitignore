@@ -1,11 +1,10 @@
 #Folders to ignore
 deprecated/
 .idea/
+Arcana Docs/
 
 #Files to ignore
 
 #File Types to ignore
 *.log
 *.zip
-
-/.idea/
