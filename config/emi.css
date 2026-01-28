@@ -46,7 +46,7 @@
 	/**
 	 * Which action should be performed when clicking the recipe book.
 	 */
-	recipe-book-action: toggle-craftables;
+	recipe-book-action: toggle-visibility;
 
 	/**
 	 * Where to display status effects in the inventory.
@@ -172,7 +172,7 @@
 	/**
 	 * The subpanels in the left sidebar
 	 */
-	left-sidebar-subpanels: none;
+	left-sidebar-subpanels: lookup-history 4;
 
 	/**
 	 * How many columns and rows of ingredients to limit the left sidebar to
@@ -182,7 +182,7 @@
 	/**
 	 * How much space to maintain between the left sidebar and obstructions, in pixels
 	 */
-	left-sidebar-margins: 6, 2, 2, 2;
+	left-sidebar-margins: 6, 0, 2, 0;
 
 	/**
 	 * Where to position the left sidebar
@@ -272,12 +272,12 @@
 	/**
 	 * The pages in the bottom sidebar
 	 */
-	bottom-sidebar-pages: empty;
+	bottom-sidebar-pages: none;
 
 	/**
 	 * The subpanels in the bottom sidebar
 	 */
-	bottom-sidebar-subpanels: lookup-history 7;
+	bottom-sidebar-subpanels: none;
 
 	/**
 	 * How many columns and rows of ingredients to limit the bottom sidebar to
