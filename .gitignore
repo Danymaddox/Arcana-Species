@@ -1,6 +1,7 @@
 #Folders to ignore
-deprecated/
+Deprecated/
 .idea/
+.github
 Arcana Docs/
 
 #Files to ignore
